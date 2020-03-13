@@ -77,7 +77,7 @@ So simple steps are:
   pip install virtualenv 
  `
  
-2)Now in which ever directory you are, this line below will create a virtualenv there
+2) Now in which ever directory you are, this line below will create a virtualenv there
 
  `
  virtualenv myenv
